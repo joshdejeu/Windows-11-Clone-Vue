@@ -2,10 +2,6 @@
   <div id="taskbar">
     <TaskApp imgsrc="windowslogo.png" @dblclick.native="dbClickApp($event)" @click.native="menuMove"></TaskApp>
     <TaskApp imgsrc="chromelogo.png" @dblclick.native="dbClickApp($event)"></TaskApp>
-    <TaskApp imgsrc="chromelogo.png" @dblclick.native="dbClickApp($event)"></TaskApp>
-    <TaskApp imgsrc="chromelogo.png" @dblclick.native="dbClickApp($event)"></TaskApp>
-    <TaskApp imgsrc="chromelogo.png" @dblclick.native="dbClickApp($event)"></TaskApp>
-    <TaskApp imgsrc="chromelogo.png" @dblclick.native="dbClickApp($event)"></TaskApp>
 
     <TaskApp imgsrc="notepad.png" @dblclick.native="dbClickApp($event)"></TaskApp>
     <TaskApp imgsrc="discord.png" @dblclick.native="dbClickApp($event)"></TaskApp>

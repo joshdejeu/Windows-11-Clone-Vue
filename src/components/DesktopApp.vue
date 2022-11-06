@@ -40,5 +40,11 @@ export default {
     font-family: 'Poppins', sans-serif;
     text-align: center;
     font-size: 0.7em;
+    color: white;
+    text-shadow: 
+    1px 1px 2px rgba(0, 0, 0, 0.4),
+    -1px -1px 2px rgba(0, 0, 0, 0.4),
+    -1px 1px 2px rgba(0, 0, 0, 0.4),
+    1px -1px 2px rgba(0, 0, 0, 0.4);
 }
 </style>

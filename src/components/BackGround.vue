@@ -5,12 +5,7 @@
       <DesktopApp imgsrc="chromelogo.png" title="Google Chrome" @click.native="clickedApp" @dblclick.native="dbClickApp($event)"></DesktopApp>
       <DesktopApp imgsrc="notepad.png" title="Notepad" @click.native="clickedApp" @dblclick.native="dbClickApp($event)"></DesktopApp>
       <DesktopApp imgsrc="discord.png" title="Discord" @click.native="clickedApp" @dblclick.native="dbClickApp($event)"></DesktopApp>
-      <DesktopApp imgsrc="chromelogo.png" title="Google Chrome" @click.native="clickedApp" @dblclick.native="dbClickApp($event)"></DesktopApp>
-      <DesktopApp imgsrc="chromelogo.png" title="Google Chrome" @click.native="clickedApp" @dblclick.native="dbClickApp($event)"></DesktopApp>
-      <DesktopApp imgsrc="chromelogo.png" title="Google Chrome" @click.native="clickedApp" @dblclick.native="dbClickApp($event)"></DesktopApp>
-      <DesktopApp imgsrc="chromelogo.png" title="Google Chrome" @click.native="clickedApp" @dblclick.native="dbClickApp($event)"></DesktopApp>
-      <DesktopApp imgsrc="chromelogo.png" title="Google Chrome" @click.native="clickedApp" @dblclick.native="dbClickApp($event)"></DesktopApp>
-  
+
     </div>
   </div>
 </template>
